@@ -1,8 +1,28 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, 
+      "u_name": "Test User1",
+       "u_email":"test1@gmail.com",
+       "u_ddress":"test Address1",
+        "u_age":18,
+       "u_city":"test city1",
+        "u_gender":"female"
+    },
+    { "id": 2, 
+     "u_name": "Test User1",
+       "u_email":"test2@gmail.com",
+       "u_ddress":"test Address2",
+        "u_age":18,
+       "u_city":"test city2",
+        "u_gender":"male"
+    },
+    { "id": 3, "u_name": "Test User1",
+       "u_email":"test3@gmail.com",
+       "u_ddress":"test Address3",
+        "u_age":18,
+       "u_city":"test city3",
+        "u_gender":"female"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
