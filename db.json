@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "data": [
     { "id": 1, 
       "u_name": "Test User1",
        "u_email":"test1@gmail.com",
